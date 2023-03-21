@@ -1,0 +1,85 @@
+* {
+    box-sizing: border-box;
+    text-decoration: none !important;
+}
+body {
+    padding: 0;
+    margin: 0;
+    font-family: son !important;
+}
+
+
+
+@font-face {
+    font-family: son;
+    src: url(../font/son.otf);
+}
+.ola {
+    background-color: #ffd90f;
+    
+}
+
+
+.slider {
+    width: 100%;
+    height: auto;
+    
+}
+.cuerpo {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    height: 30rem;
+}
+.safiro {
+    height: 25rem;
+    padding-top: 2rem;
+ 
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+    font-size: 150%;
+}
+a {
+    color: red ;
+
+    border-radius: 25%;
+}
+
+.olaa{
+    width: 8%;
+    
+}
+.ico {
+    background-color: none !important;
+}
+.ico:hover {
+    width: 65%;
+}
+
+.icono:hover {
+    width: 90%;
+}
+
+.boton {
+  
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    
+}
+.siguenos {
+    margin-right: 10%;
+}
+
+.panda {
+    height:25rem;
+    padding-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.hola {
+    width: 100%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
